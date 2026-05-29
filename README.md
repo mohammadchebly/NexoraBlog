@@ -31,25 +31,6 @@ The platform is designed to provide an engaging environment where users can publ
 
 ---
 
-## Project Structure
-
-```
-Nexora Blog/
-├── actions/
-├── components/
-├── uploads/
-├── images/
-├── index.php
-├── profile.php
-├── login.php
-├── register.php
-├── logout.php
-├── connection.php
-└── README.md
-```
-
----
-
 ## Live Demo
 
 Coming Soon
@@ -58,7 +39,7 @@ Coming Soon
 
 ## Preview
 
-Image: Nexora Blog Preview
+![Nexora Blog](nexora-blog.png)
 
 ---
 
