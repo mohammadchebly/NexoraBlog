@@ -33,7 +33,7 @@ The platform is designed to provide an engaging environment where users can publ
 
 ## Live Demo
 
-Coming Soon
+nexorablog.gt.tc
 
 ---
 
